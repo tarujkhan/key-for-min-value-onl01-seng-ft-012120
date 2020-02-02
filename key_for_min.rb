@@ -9,7 +9,7 @@ def key_for_min_value(name_hash)
    # puts changed_array
   #end
 #end  
-end
+
 
 smallest_value = 0
  empty_hash = nil
