@@ -9,4 +9,3 @@ changed_array = name_hash.size do |name_hash|
     puts name_hash
   end
   
-end
