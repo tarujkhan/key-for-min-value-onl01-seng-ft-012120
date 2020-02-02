@@ -8,4 +8,4 @@ changed_array = name_hash.size do |name_hash|
   else
     puts key_for_min_value
   end
-  
+end  
