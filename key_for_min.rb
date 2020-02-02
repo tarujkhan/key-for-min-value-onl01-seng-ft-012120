@@ -6,6 +6,6 @@ changed_array = name_hash.size do |name_hash|
   if name_hash.size < changed_array
     puts NIL
   else
-    puts name_hash
+    puts key_for_min_value
   end
   
